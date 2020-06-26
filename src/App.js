@@ -35,7 +35,7 @@ const ParticlesOptions={
 
 
 const initialState={
-						inpute:'',
+						input:'',
 						urlImage:'',
 						numberFaces:0,
 						boxes:[] ,

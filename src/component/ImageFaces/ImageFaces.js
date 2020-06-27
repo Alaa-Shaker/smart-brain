@@ -21,10 +21,10 @@ const ImageFaces =({urlImage ,boxes })=>{
 					 		<div >
 						 	 <img id="imageInput"  alt ="ImageFaces" src={urlImage} />
 
-						 			<ForLoop nameClass="bounding-box" styleboxes={styleboxes} />							  						 	
+						 			<ForLoop nameOfClass={"bounding-box"} styleboxes={styleboxes} />							  						 	
 
-							 	 </div>
-						 	 </div>
+							 </div>
+						 </div>
 					 	 
 					</Tilt>
 				</div>

@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4> this code for application you can see in the url https://alaa-shaker.github.io/deploy-smart-brain/ </h4>
+<br> this code writed for deploy on Heroku site if you want run on your computer 
+<br> you need change "start" in "script" in package.json file like this :
+<br>"start": "react-scripts start"
+<br>
+<h4> for use :</h4>
+<br>1- git clone https/ssh 
+<br>2-cd smart-brain
+<br>3-npm install
+<br>4-npm start
+<br>
 
 ## Available Scripts
 
